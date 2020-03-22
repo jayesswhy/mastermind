@@ -54,10 +54,3 @@ while isSuccess == False and numberOfTries > 0:
 
     if numberOfTries == 0:
         print("You failed. Goodbye")
-
-
-#1.	Compare the input to the code and print out two things:
-#How many digits they have matching AND in position
-#	How many digits they have matching but not in position
-#“1 matching digit and in position, 1 matching digit not in position”
-
